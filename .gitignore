@@ -4,6 +4,7 @@
 /.idea/libraries
 .DS_Store
 /build
+/app/build
 /captures
 
 # Created by https://www.gitignore.io/api/intellij
