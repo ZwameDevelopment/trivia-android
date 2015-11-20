@@ -46,7 +46,8 @@
             android:layout_height="wrap_content"
             android:text="Login"
             android:id="@+id/btn_login"
-            android:layout_gravity="right" />
+            android:layout_gravity="right"
+            android:onClick="btn_login" />
 
         <Button
             android:layout_width="200dp"
