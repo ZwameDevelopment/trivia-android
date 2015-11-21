@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 String item = ((TextView)view).getText().toString();
 
                 Intent cIntent = new Intent(MainActivity.this, QuestionActivity.class);
-                    cIntent.putExtra("name", item);
+                    //cIntent.putExtra("name", item);
                 startActivity(cIntent);
             }
         });
